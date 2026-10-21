@@ -62,15 +62,6 @@
 <br/>
 
 
-<!-- ===== SNAKE ===== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HUDEBIYA/HUDEBIYA/output/github-snake-dark.svg" alt="snake animation" />
-</div>
-
-<br/>
-
 <!-- ===== FOOTER ===== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
