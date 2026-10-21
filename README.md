@@ -60,10 +60,19 @@
 </div>
 
 <br/>
+<!-- ===== QUOTE ===== -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
+<!-- ===== CODING GIF ===== -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
 
 <!-- ===== FOOTER ===== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
   <sub>⭐ Thanks for visiting my profile!</sub>
+  <h3>✨ Let's build something awesome together! ✨</h3>
 </div>
