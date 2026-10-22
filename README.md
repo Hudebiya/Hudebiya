@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="350" alt="Cute white cat coding on laptop" src="https://github.com/user-attachments/assets/7a728629-a43c-42e2-9544-d4ffc6c2d561" />
+ 
+
 </div>
 
 <br/>
@@ -67,7 +68,7 @@
 
 <!-- ===== CODING GIF ===== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+   <img width="350" alt="Cute white cat coding on laptop" src="https://github.com/user-attachments/assets/7a728629-a43c-42e2-9544-d4ffc6c2d561" />
 </div>
 
 <!-- ===== FOOTER ===== -->
