@@ -1,5 +1,6 @@
 <div align="center">
  
+<img width="480" height="270" alt="duck gif" src="https://github.com/user-attachments/assets/26e8e18e-580c-4b6f-bc1d-b0b3bf192793" />
 
 </div>
 
